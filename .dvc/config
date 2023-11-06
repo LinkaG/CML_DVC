@@ -1,10 +1,5 @@
 [core]
     remote = myremote
-['remote "remote"']
-    url = s3://dvcbucket
-    endpointurl = https://storage.yandexcloud.net
-    access_key_id = YCAJE2FLNfw7QmIAn2n4tPXkr
-    secret_access_key = YCNDXoIGWr7pzWkBkKvx3PGKIsBpOYraswRVLRKG
 ['remote "myremote"']
     url = s3://dvcbucket
     endpointurl = https://storage.yandexcloud.net
